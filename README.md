@@ -14,10 +14,10 @@ Repositorio para las tareas,actividades y proyectos relacionadas con **predicci�
 | Tarea 5 | Notebook correspondiente a la Tarea 5 | [Ver Tarea 5](./notebooks/Tarea5.ipynb) |
 | Tarea 6 | Notebook correspondiente a la Tarea 6 | [Ver Tarea 6](./notebooks/Tarea6.ipynb) |
 | Tarea 7 | Notebook correspondiente a la Tarea 7 | [Ver Tarea 7](./notebooks/Tarea7.ipynb) |
-<!--
 | Tarea 8 | Notebook correspondiente a la Tarea 8 | [Ver Tarea 8](./notebooks/Tarea8.ipynb) |
 | Tarea 9 | Notebook correspondiente a la Tarea 9 | [Ver Tarea 9](./notebooks/Tarea9.ipynb) |
 | Tarea 10 | Notebook correspondiente a la Tarea 10 | [Ver Tarea 10](./notebooks/Tarea10.ipynb) |
+<--
 -->
 
 ## Estructura del repositorio
@@ -30,6 +30,7 @@ ErrorPrediction/
 │   ├── processed/
 │   └── raw/
 │       └── kc1.arff
+        └── PC2.csv
 ├── models/
 ├── notebooks/
 │   ├── Tarea2.ipynb
@@ -53,6 +54,7 @@ ErrorPrediction/
 El repositorio incluye el conjunto de datos utilizado en las actividades:
 
 - [kc1.arff](./data/raw/kc1.arff)
+- [PC2.csv](./data/raw/PC2.csv)
 
 ## Cómo consultar las tareas
 
