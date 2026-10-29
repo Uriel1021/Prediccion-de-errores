@@ -17,6 +17,7 @@ Repositorio para las tareas,actividades y proyectos relacionadas con **predicci√
 | Tarea 8 | Notebook correspondiente a la Tarea 8 | [Ver Tarea 8](./notebooks/Tarea8.ipynb) |
 | Tarea 9 | Notebook correspondiente a la Tarea 9 | [Ver Tarea 9](./notebooks/Tarea9.ipynb) |
 | Tarea 10 | Notebook correspondiente a la Tarea 10 | [Ver Tarea 10](./notebooks/Tarea10.ipynb) |
+| Tarea 11 | Notebook correspondiente a la Tarea 11 | [Ver Tarea 11](./notebooks/Tarea11.ipynb) |
 <--
 -->
 
